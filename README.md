@@ -1,20 +1,18 @@
-# flutter_playground
-
-Flutter playground.
+# Flutter playground.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
+This is a series of Flutter tips, tricks, and snippets that you might find useful. 
+We will start with basics, and then move on to advanced concepts. We will build an application 
+along the way. I will not cover the setup and new project creation since the online documentation 
+is quite detailed.
 
 ## Flutter Playground
 1. [Flutter Playground - Part 1](https://www.kodehero.in/flutter-playground-part-1/)
 2. [Flutter Playground - Part 2](https://www.kodehero.in/flutter-playground-part-2-login-screen/)
+
+
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
