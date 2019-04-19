@@ -9,6 +9,7 @@ is quite detailed.
 ## Flutter Playground
 1. [Flutter Playground - Part 1](https://www.kodehero.in/flutter-playground-part-1/)
 2. [Flutter Playground - Part 2](https://www.kodehero.in/flutter-playground-part-2-login-screen/)
+3. [Flutter Playground - Part 3: Widgets](https://www.kodehero.in/flutter-playground-part-3-widgets/)
 
 
 ## Important links
